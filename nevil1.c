@@ -36,10 +36,8 @@ void child(int argc,char *argv[])
     }
     OUT: 
         return -1;
-        
 	
 }
-
  
 int main()
 { 
